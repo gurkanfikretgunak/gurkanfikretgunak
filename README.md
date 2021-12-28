@@ -1,5 +1,4 @@
 <h1 align="center">Merhabaa! 👋🏻 Gurkan</h1>
-<div style="text-align:center;width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/14g4HAkEgcEuFq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/batman-arkham-sonofdragons-14g4HAkEgcEuFq"></a></p>
 </b>
 <h3 align="center">A software developer who loves to develop software and shares. Helping the developers to build their facilities in an easier way as they can.</h3>
 

@@ -2,9 +2,11 @@
   <h1 style="color:#000000; letter-spacing:0.12em;">Gürkan Fikret Günak</h1>
   <p style="color:#6ad1ff; font-size:1.05rem; display:flex; align-items:center; gap:0.6rem;">
     Mobile Team Lead
+    -
     <span style="background:#0f172a; color:#6ad1ff; padding:0.35rem 0.8rem; border-radius:10px; border:1px solid #1f2937; font-size:0.82rem;">
       Cursor Ambassador
     </span>
+    <span style="color:#94a3b8; font-size:0.9rem; margin-left:0.4rem;">| <code style="background:#0f172a; padding:0.2rem 0.5rem; border-radius:6px; color:#6ad1ff;">npx gurkan</code></span>
   </p>
 </div>
 

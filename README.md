@@ -1,16 +1,44 @@
-<h1 align="center">Merhabaa! I'm Gurkan </h1>
-</b>
-<h3 align="center">A software developer who loves to develop software and shares. Helping the developers to build their facilities in an easier way as they can.</h3>
+<div style="font-family: 'Fira Code', Monaco, monospace; text-align:left;">
+  <h1 style="color:#000000; letter-spacing:0.12em;">Gürkan Fikret Günak</h1>
+  <p style="color:#6ad1ff; font-size:1.05rem; display:flex; align-items:center; gap:0.6rem;">
+    Mobile Team Lead
+    <span style="background:#0f172a; color:#6ad1ff; padding:0.35rem 0.8rem; border-radius:10px; border:1px solid #1f2937; font-size:0.82rem;">
+      Cursor Ambassador
+    </span>
+  </p>
+</div>
 
-- 🔭 I’m currently working on **Flutter,Dart,Kotlin,JavaScript projects also learning programs**
+---
 
-- 🌱 I’m currently learning **Frameworks,Backends,AI,ML and useful techs.**
+### Snapshot
+- `Experience` · 8+ years designing scalable, secure mobile platforms for finance and commerce
+- `Leadership` · Guides cross-functional teams to deliver enterprise-ready Flutter products
+- `Focus` · Clean architecture, SDUI frameworks, automated release pipelines
 
-- 👯 I’m looking to collaborate for **Cross-Platform Projects**
+### What I Build
+- Ticimax Mobile Shop Builder — white-label engine powering 200+ e-commerce apps
+- VeriChannel Mobile Banking — SDUI system with drag-and-drop flows for analysts
+- Dynamic DevOps Module — Azure-driven release automation for 150+ branded apps
+- Akbank AG Mobile Banking — GDPR-compliant Flutter banking experience for EU customers
 
-- 💬 Ask me about **Flutter,Dart,Firebase,Supabase, Appwrite and Material Design 🔥**
+### Technical Stack
+- `Languages` · Dart, Swift, Kotlin, TypeScript
+- `Architecture` · Clean Architecture, BLoC, SDUI, MVVM
+- `Platform` · Flutter, iOS, Android, macOS build automation
+- `Infra` · Azure DevOps, Docker, secure CI/CD, JWT, SSL pinning
 
-- 📫 How to reach me **@gurkandev from Twitter and linktr.ee/gurkanfikretgunak**
+### Current Work
+- Leading architecture efforts for enterprise-grade Flutter products
+- Extending SDUI capabilities with analytics and experiment tooling
+- Coaching teams on reliable release flows and testable UI patterns
 
-- ⚡ Fun fact **I'm a crazy comic reader. I've finished every series of Batman and Spider-man series. I really enjoy talking about these topics, apart from testable software.**
+### Connect
+- Website → [gurkanfikretgunak.com](https://gurkanfikretgunak.com)
+- Twitter → [@gurkandev](https://twitter.com/gurkandev)
+- Linktree → [linktr.ee/gurkanfikretgunak](https://linktr.ee/gurkanfikretgunak)
+- LinkedIn → [linkedin.com/in/gurkanfikretgunak](https://linkedin.com/in/gurkanfikretgunak)
 
+### Offline
+- Long-form reader of comic story arcs
+- Competitive mobile gamer and UX observer
+- Continuous contributor to Flutter and Dart communities

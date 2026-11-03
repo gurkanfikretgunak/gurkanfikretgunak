@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI | Mobile Team Lead</b><br/>
-  Ticimax Mobile Team Lead · MasterFabric Open Sourced Development Lead
+  Ticimax by team.blue Mobile Team Lead · MasterFabric Open Sourced Development Lead
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
 
 - **Experience** · 10+ years in the software ecosystem — from SDKs and libraries to end-to-end product and high-scale system architecture
 - **AI** · 4+ years focused on AI transformation projects; leading AI-native SDLC adoption, agentic workflows, and MCP integrations
-- **Mobile** · Architecture of high-traffic mobile platforms at Ticimax — a white-label app builder powering 300+ e-commerce apps
+- **Mobile** · Architecture of high-traffic mobile platforms at Ticimax by team.blue — a white-label app builder powering 300+ e-commerce apps
 - **Community** · Build Ambassador at SpaceXSI Community, MasterFabric Academy, and former GDG Antalya organizer
 
 ### 🧭 Roles
 
 | Where | What |
 |---|---|
-| [**Ticimax**](https://ticimax.com) | Mobile Team Lead, Mobile Products Architect &amp; Mobile Product Designer · Jun 2023 – present. One of Türkiye's leading e-commerce platforms (14,000+ companies) |
+| [**Ticimax by team.blue**](https://ticimax.com) | Mobile Team Lead, Mobile Products Architect &amp; Mobile Product Designer · Jun 2023 – present. One of Türkiye's leading e-commerce platforms (14,000+ companies) |
 | [**MasterFabric**](https://masterfabric.co) | Open Sourced Development Lead — AI-powered product development, education, open source first |
 | **SpaceXSI Community** | Build Ambassador · Sep 2026 – present |
 | **Cursor** | Ambassador - Cursor · Nov 2025 – Sep 2026 (previous). Continued as Build Ambassador at SpaceXSI Community after Cursor joined SpaceXSI |
@@ -37,12 +37,12 @@
 
 ### 🛠️ What I Build
 
-**At Ticimax**
+**At Ticimax by team.blue**
 - **Mobile Shop App Builder** — white-label Cross/Native app builder architecture powering 300+ iOS &amp; Android e-commerce apps
 - **Server-Driven UI (SDUI) &amp; Modular Core** — backend-configured dynamic screens, feature-toggle modules, client-based dynamic compile SDK kit
 - **Dynamic DevOps &amp; Tenant App Publishing** — Azure-based hybrid CI/CD automating store releases for 300+ branded apps
 - **Mobile Test Automation** — Appium + DevOps parallel multi-device pipeline running 100+ E2E scenarios per release candidate
-- **Enterprise AI Transformation** — GitHub Copilot Enterprise rollout, secure closed-cloud AI dev environments, MCP-based project agents
+- **Enterprise AI Transformation** — GitHub Copilot Enterprise rollout; led the company's Claude Team &amp; Enterprise adoption; AI workflows on team.blue's internal BlueCode and BlueAI infrastructure; secure closed-cloud AI dev environments, MCP-based project agents
 
 **Selected consulting (via MasterFabric)**
 - **VeriPark** — VeriChannel multi-tenant mobile banking core, SDUI framework, Akbank AG (Germany) digital banking, Alternatif Bank
@@ -94,7 +94,7 @@
 
 ### 🚀 Currently
 
-- Leading mobile architecture and enterprise AI transformation at Ticimax
+- Leading mobile architecture and enterprise AI transformation at Ticimax by team.blue (Copilot Enterprise, Claude Team &amp; Enterprise, BlueCode &amp; BlueAI)
 - Driving open-source development at MasterFabric and teaching through [MasterFabric Academy](https://academy.masterfabric.co)
 - Build Ambassador at SpaceXSI Community
 

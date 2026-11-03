@@ -116,7 +116,6 @@
   <a href="https://www.linkedin.com/in/gurkanfikretgunak/"><img src="https://img.shields.io/badge/LinkedIn-gurkanfikretgunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.gurkanfikretgunak.com"><img src="https://img.shields.io/badge/Web-gurkanfikretgunak.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linktr.ee/gurkanfikretgunak"><img src="https://img.shields.io/badge/Linktree-gurkanfikretgunak-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
-  <a href="mailto:gurkanfikretgunak@masterfabric.co"><img src="https://img.shields.io/badge/Email-gurkanfikretgunak%40masterfabric.co-1f2937?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 🎮 Offline

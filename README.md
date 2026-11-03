@@ -32,7 +32,7 @@
 | [**Ticimax**](https://ticimax.com) | Mobile Team Lead, Mobile Products Architect &amp; Mobile Product Designer · Jun 2023 – present. One of Türkiye's leading e-commerce platforms (14,000+ companies) |
 | [**MasterFabric**](https://masterfabric.co) | Open Sourced Development Lead — AI-powered product development, education, open source first |
 | **SpaceXSI Community** | Build Ambassador · Sep 2026 – present |
-| **Cursor** | Ambassador (previous) · Nov 2025 – Sep 2026. Continued as Build Ambassador at SpaceXSI Community after Cursor joined SpaceXSI |
+| **Cursor** | Ambassador - Cursor · Nov 2025 – Sep 2026 (previous). Continued as Build Ambassador at SpaceXSI Community after Cursor joined SpaceXSI |
 | [**MasterFabric Academy**](https://academy.masterfabric.co) | Volunteer, free education track with an MCP curriculum |
 
 ### 🛠️ What I Build
@@ -102,7 +102,7 @@
 ### 🤝 Community
 
 - **SpaceXSI Community** — Build Ambassador · Sep 2026 – present
-- **Cursor** — Ambassador (previous) · Nov 2025 – Sep 2026 · Continued as Build Ambassador at SpaceXSI Community after Cursor joined SpaceXSI
+- **Ambassador - Cursor** · Nov 2025 – Sep 2026 (previous) · Continued as Build Ambassador at SpaceXSI Community after Cursor joined SpaceXSI
 - **EduTech** — Volunteer trainer &amp; student mentor (Flutter, Swift) · 2023 – present
 - **SwiftCamp** (EduTech &amp; MasterFabric) — Instructor · May 2024 – Jan 2025
 - **GDG Antalya** — Organizer · Jan 2018 – Nov 2023

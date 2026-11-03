@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SpaceXSI-Builder%20%26%20Grok%20Bot%20Ambassador-000000?style=flat-square&logo=x&logoColor=white" alt="SpaceXSI · Builder & Grok Bot Ambassador" />
+  <img src="https://img.shields.io/badge/SpaceXSI%20Community-Build%20Ambassador-000000?style=flat-square&logo=x&logoColor=white" alt="Build Ambassador · SpaceXSI Community" />
   <a href="https://academy.masterfabric.co"><img src="https://img.shields.io/badge/MasterFabric-Academy-1f2937?style=flat-square" alt="MasterFabric Academy" /></a>
   <img src="https://img.shields.io/badge/based%20in-%C4%B0stanbul%2C%20T%C3%BCrkiye-E30A17?style=flat-square" alt="Based in İstanbul, Türkiye" />
   <a href="https://github.com/gurkanfikretgunak?tab=followers"><img src="https://img.shields.io/github/followers/gurkanfikretgunak?style=flat-square&label=followers&color=0f172a" alt="GitHub followers" /></a>
@@ -23,7 +23,7 @@
 - **Experience** · 10+ years in the software ecosystem — from SDKs and libraries to end-to-end product and high-scale system architecture
 - **AI** · 4+ years focused on AI transformation projects; leading AI-native SDLC adoption, agentic workflows, and MCP integrations
 - **Mobile** · Architecture of high-traffic mobile platforms at Ticimax — a white-label app builder powering 300+ e-commerce apps
-- **Community** · SpaceXSI Builder &amp; Grok Bot Ambassador, MasterFabric Academy, and former GDG Antalya organizer
+- **Community** · Build Ambassador at SpaceXSI Community, MasterFabric Academy, and former GDG Antalya organizer
 
 ### 🧭 Roles
 
@@ -31,7 +31,7 @@
 |---|---|
 | [**Ticimax**](https://ticimax.com) | Mobile Team Lead, Mobile Products Architect &amp; Mobile Product Designer · Jun 2023 – present. One of Türkiye's leading e-commerce platforms (14,000+ companies) |
 | [**MasterFabric**](https://masterfabric.co) | Open Sourced Development Lead — AI-powered product development, education, open source first |
-| **SpaceXSI** | Builder &amp; Grok Bot Ambassador · Sep 2026 – present |
+| **SpaceXSI Community** | Build Ambassador · Sep 2026 – present |
 | [**MasterFabric Academy**](https://academy.masterfabric.co) | Volunteer, free education track with an MCP curriculum |
 
 ### 🛠️ What I Build
@@ -96,11 +96,11 @@
 
 - Leading mobile architecture and enterprise AI transformation at Ticimax
 - Driving open-source development at MasterFabric and teaching through [MasterFabric Academy](https://academy.masterfabric.co)
-- Building with Grok Bot as a SpaceXSI Builder &amp; Grok Bot Ambassador
+- Build Ambassador at SpaceXSI Community
 
 ### 🤝 Community
 
-- **SpaceXSI** — Builder &amp; Grok Bot Ambassador · Sep 2026 – present
+- **SpaceXSI Community** — Build Ambassador · Sep 2026 – present
 - **Cursor** — Ambassador · Nov 2025 – Sep 2026
 - **EduTech** — Volunteer trainer &amp; student mentor (Flutter, Swift) · 2023 – present
 - **SwiftCamp** (EduTech &amp; MasterFabric) — Instructor · May 2024 – Jan 2025

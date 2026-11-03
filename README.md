@@ -1,46 +1,126 @@
-<div style="font-family: 'Fira Code', Monaco, monospace; text-align:left;">
-  <h1 style="color:#000000; letter-spacing:0.12em;">Gürkan Fikret Günak</h1>
-  <p style="color:#6ad1ff; font-size:1.05rem; display:flex; align-items:center; gap:0.6rem;">
-    Mobile Team Lead
-    -
-    <span style="background:#0f172a; color:#6ad1ff; padding:0.35rem 0.8rem; border-radius:10px; border:1px solid #1f2937; font-size:0.82rem;">
-      Cursor Ambassador
-    </span>
-    <span style="color:#94a3b8; font-size:0.9rem; margin-left:0.4rem;">| <code style="background:#0f172a; padding:0.2rem 0.5rem; border-radius:6px; color:#6ad1ff;">npx gurkan</code></span>
-  </p>
-</div>
+<h1 align="center">Gürkan Fikret Günak</h1>
+
+<p align="center">
+  <b>AI | Mobile Team Lead</b><br/>
+  Ticimax Mobile Team Lead · MasterFabric Open Sourced Development Lead
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SpaceXSI-Builder%20%26%20Grok%20Bot%20Ambassador-000000?style=flat-square&logo=x&logoColor=white" alt="SpaceXSI · Builder & Grok Bot Ambassador" />
+  <a href="https://academy.masterfabric.co"><img src="https://img.shields.io/badge/MasterFabric-Academy-1f2937?style=flat-square" alt="MasterFabric Academy" /></a>
+  <img src="https://img.shields.io/badge/based%20in-%C4%B0stanbul%2C%20T%C3%BCrkiye-E30A17?style=flat-square" alt="Based in İstanbul, Türkiye" />
+  <a href="https://github.com/gurkanfikretgunak?tab=followers"><img src="https://img.shields.io/github/followers/gurkanfikretgunak?style=flat-square&label=followers&color=0f172a" alt="GitHub followers" /></a>
+</p>
+
+<p align="center">
+  <code>npx gurkan</code> — meet me from your terminal (<code>npx gurkan -tr</code> for Turkish)
+</p>
 
 ---
 
-### Snapshot
-- `Experience` · 8+ years designing scalable, secure mobile platforms for finance and commerce
-- `Leadership` · Guides cross-functional teams to deliver enterprise-ready Flutter products
-- `Focus` · Clean architecture, SDUI frameworks, automated release pipelines
+### 👋 Snapshot
 
-### What I Build
-- Ticimax Mobile Shop Builder — white-label engine powering 200+ e-commerce apps
-- VeriChannel Mobile Banking — SDUI system with drag-and-drop flows for analysts
-- Dynamic DevOps Module — Azure-driven release automation for 150+ branded apps
-- Akbank AG Mobile Banking — GDPR-compliant Flutter banking experience for EU customers
+- **Experience** · 10+ years in the software ecosystem — from SDKs and libraries to end-to-end product and high-scale system architecture
+- **AI** · 4+ years focused on AI transformation projects; leading AI-native SDLC adoption, agentic workflows, and MCP integrations
+- **Mobile** · Architecture of high-traffic mobile platforms at Ticimax — a white-label app builder powering 300+ e-commerce apps
+- **Community** · SpaceXSI Builder &amp; Grok Bot Ambassador, MasterFabric Academy, and former GDG Antalya organizer
 
-### Technical Stack
-- `Languages` · Dart, Swift, Kotlin, TypeScript
-- `Architecture` · Clean Architecture, BLoC, SDUI, MVVM
-- `Platform` · Flutter, iOS, Android, macOS build automation
-- `Infra` · Azure DevOps, Docker, secure CI/CD, JWT, SSL pinning
+### 🧭 Roles
 
-### Current Work
-- Leading architecture efforts for enterprise-grade Flutter products
-- Extending SDUI capabilities with analytics and experiment tooling
-- Coaching teams on reliable release flows and testable UI patterns
+| Where | What |
+|---|---|
+| [**Ticimax**](https://ticimax.com) | Mobile Team Lead, Mobile Products Architect &amp; Mobile Product Designer · Jun 2023 – present. One of Türkiye's leading e-commerce platforms (14,000+ companies) |
+| [**MasterFabric**](https://masterfabric.co) | Open Sourced Development Lead — AI-powered product development, education, open source first |
+| **SpaceXSI** | Builder &amp; Grok Bot Ambassador · Sep 2026 – present |
+| [**MasterFabric Academy**](https://academy.masterfabric.co) | Volunteer, free education track with an MCP curriculum |
 
-### Connect
-- Website → [gurkanfikretgunak.com](https://gurkanfikretgunak.com)
-- Twitter → [@gurkandev](https://twitter.com/gurkandev)
-- Linktree → [linktr.ee/gurkanfikretgunak](https://linktr.ee/gurkanfikretgunak)
-- LinkedIn → [linkedin.com/in/gurkanfikretgunak](https://linkedin.com/in/gurkanfikretgunak)
+### 🛠️ What I Build
 
-### Offline
-- Long-form reader of comic story arcs
+**At Ticimax**
+- **Mobile Shop App Builder** — white-label Cross/Native app builder architecture powering 300+ iOS &amp; Android e-commerce apps
+- **Server-Driven UI (SDUI) &amp; Modular Core** — backend-configured dynamic screens, feature-toggle modules, client-based dynamic compile SDK kit
+- **Dynamic DevOps &amp; Tenant App Publishing** — Azure-based hybrid CI/CD automating store releases for 300+ branded apps
+- **Mobile Test Automation** — Appium + DevOps parallel multi-device pipeline running 100+ E2E scenarios per release candidate
+- **Enterprise AI Transformation** — GitHub Copilot Enterprise rollout, secure closed-cloud AI dev environments, MCP-based project agents
+
+**Selected consulting (via MasterFabric)**
+- **VeriPark** — VeriChannel multi-tenant mobile banking core, SDUI framework, Akbank AG (Germany) digital banking, Alternatif Bank
+- **incehesap.com** — mobile product, PC Builder flows, flash-sale &amp; peak-traffic architecture
+- **Ulusal Factoring** — AI-driven, high-security factoring web platform with SDUI workflows and Azure DevOps/SecOps
+- **DESİ Alarm** — IoT smart-alarm mobile app with real-time MQTT and end-to-end encryption
+
+### ⭐ MasterFabric Open Source
+
+| Project | About |
+|---|---|
+| [MasterFabric Platform](https://github.com/masterfabric/masterfabric) ![stars](https://img.shields.io/github/stars/masterfabric/masterfabric?style=flat-square&label=%E2%98%85) | Self-hosted BaaS platform (NestJS microservices, GraphQL, real-time) |
+| [OSMEA](https://github.com/masterfabric-mobile/osmea) ![stars](https://img.shields.io/github/stars/masterfabric-mobile/osmea?style=flat-square&label=%E2%98%85) | Mobile e-commerce architecture framework · [osmea.masterfabric.co](https://osmea.masterfabric.co) |
+| [MasterFabric Welcome](https://github.com/masterfabric/welcome) | Developer onboarding portal · [welcome.masterfabric.co](https://welcome.masterfabric.co) |
+| [Developer Manifesto](https://github.com/gurkanfikretgunak/manifesto) | Manifesto publishing platform |
+| [MasterFabric Academy](https://github.com/masterfabric/one-hundered-days) ![stars](https://img.shields.io/github/stars/masterfabric/one-hundered-days?style=flat-square&label=%E2%98%85) | Free volunteer education track — curriculum &amp; education MCP · [academy](https://academy.masterfabric.co) · [certificates](https://academy-app.masterfabric.co) |
+| [masterfabric_core](https://github.com/masterfabric-mobile/masterfabric_core) | Flutter application core · [pub.dev](https://pub.dev/packages/masterfabric_core) |
+| [MasterFabric Expo](https://github.com/masterfabric-mobile/masterfabric-expo) | Agentic-ready React Native / Expo architecture template |
+| [MasterFabric Serverpod](https://github.com/gurkanfikretgunak/masterfabric_serverpod) | Enterprise-level Dart backend reference (Redis, PostgreSQL, RBAC, WebSockets) |
+| [masterfabric-go](https://github.com/masterfabric/masterfabric-go) | Multi-tenant, RBAC-driven SaaS backend in Go |
+| [masterfabric-mac-cli](https://github.com/masterfabric/masterfabric-mac-cli) | MacBook system monitor — CLI, menu bar, and MCP for AI agents |
+| [cursor-security](https://github.com/masterfabric/cursor-security) | Agentic AI security guidance &amp; ISMS pack (SOC 2 / ISO 27001 / ASVS L2) |
+
+**Community &amp; learning repos:** [flutter_guidance](https://github.com/gurkanfikretgunak/flutter_guidance) · [flutter_journey](https://github.com/gurkanfikretgunak/flutter_journey) · [wtech-flutter-bootcamp](https://github.com/gurkanfikretgunak/wtech-flutter-bootcamp) · [swift-camp](https://github.com/masterfabric-mobile/swift-camp) · [lectures-nextjs](https://github.com/gurkanfikretgunak/lectures-nextjs)
+
+**pub.dev:** [masterfabric_core](https://pub.dev/packages/masterfabric_core) · [checkout_sheet_kit_flutter](https://pub.dev/packages/checkout_sheet_kit_flutter) · [ucp_dart_sdk](https://pub.dev/packages/ucp_dart_sdk) · [masterfabric_app_icon](https://pub.dev/packages/masterfabric_app_icon)
+
+### 🧰 Skills &amp; Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+- **Core** · Flutter, Dart, Mobile Development, AI, Cloud (Azure, AWS), High-Traffic Backend Architecture, RESTful APIs, Firebase, Git
+- **Architecture** · Solution Architecture, Platform Engineering (white-label, tenant-based), Server-Driven UI (SDUI), Clean Architecture &amp; BLoC / State Management, IoT (MQTT)
+- **AI** · AI-Driven Development, Agentic Workflows, MCP (Model Context Protocol), LLM Integration, GitHub Copilot Enterprise, SDLC Modernization
+- **DevOps &amp; Security** · CI/CD, Azure DevOps Pipelines, Mobile DevOps, air-gapped deployments, DevSecOps/AppSec, RBAC, E2E encryption, SSL pinning &amp; JWT
+- **Ways of working** · Team Leadership, Project Planning, Agile/Scrum
+
+### 🚀 Currently
+
+- Leading mobile architecture and enterprise AI transformation at Ticimax
+- Driving open-source development at MasterFabric and teaching through [MasterFabric Academy](https://academy.masterfabric.co)
+- Building with Grok Bot as a SpaceXSI Builder &amp; Grok Bot Ambassador
+
+### 🤝 Community
+
+- **SpaceXSI** — Builder &amp; Grok Bot Ambassador · Sep 2026 – present
+- **Cursor** — Ambassador · Nov 2025 – Sep 2026
+- **EduTech** — Volunteer trainer &amp; student mentor (Flutter, Swift) · 2023 – present
+- **SwiftCamp** (EduTech &amp; MasterFabric) — Instructor · May 2024 – Jan 2025
+- **GDG Antalya** — Organizer · Jan 2018 – Nov 2023
+- **Flutter Student Club** — Founder · 2020 – 2023
+- **GDG Bursa &amp; GDG Cloud Bursa** — Organizer · 2021 – 2022
+- Talks, workshops &amp; YouTube → [list](https://docs.google.com/spreadsheets/d/1FXbIwpcpOYcZW04ZqigSw7Lx74qr1Oj0hdsP-tIp_m8/edit?gid=0#gid=0) · Certificates → [Microsoft Learn](https://learn.microsoft.com/en-us/users/grkanfikretgnak-6669/)
+
+### 📫 Connect
+
+<p>
+  <a href="https://x.com/gurkandev"><img src="https://img.shields.io/badge/X-@gurkandev-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/gurkanfikretgunak/"><img src="https://img.shields.io/badge/LinkedIn-gurkanfikretgunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.gurkanfikretgunak.com"><img src="https://img.shields.io/badge/Web-gurkanfikretgunak.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linktr.ee/gurkanfikretgunak"><img src="https://img.shields.io/badge/Linktree-gurkanfikretgunak-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="mailto:gurkanfikretgunak@masterfabric.co"><img src="https://img.shields.io/badge/Email-gurkanfikretgunak%40masterfabric.co-1f2937?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
+
+### 🎮 Offline
+
+- Comic book culture — Batman lore and graphic novel analyses
 - Competitive mobile gamer and UX observer
-- Continuous contributor to Flutter and Dart communities
+- Thinking about AI-native software architectures and autonomous systems

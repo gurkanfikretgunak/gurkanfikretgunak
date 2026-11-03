@@ -48,7 +48,6 @@
 - **VeriPark** — VeriChannel multi-tenant mobile banking core, SDUI framework, Akbank AG (Germany) digital banking, Alternatif Bank
 - **incehesap.com** — mobile product, PC Builder flows, flash-sale &amp; peak-traffic architecture
 - **Ulusal Factoring** — AI-driven, high-security factoring web platform with SDUI workflows and Azure DevOps/SecOps
-- **DESİ Alarm** — IoT smart-alarm mobile app with real-time MQTT and end-to-end encryption
 
 ### ⭐ MasterFabric Open Source
 
